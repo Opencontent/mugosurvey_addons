@@ -7,8 +7,8 @@ ExtensionDirectories[]=mugosurvey_addons
 QuestionTypeList[]
 QuestionTypeList[]=matrix
 QuestionTypeList[]=country
-QuestionTypeList[]=state
+#QuestionTypeList[]=state
 #QuestionTypeList[]=pagebreak
-QuestionTypeList[]=rsvpcode
-QuestionTypeList[]=textentryvalidated
+#QuestionTypeList[]=rsvpcode
+#QuestionTypeList[]=textentryvalidated
 */ ?>

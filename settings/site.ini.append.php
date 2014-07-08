@@ -3,4 +3,7 @@
 [TemplateSettings]
 ExtensionAutoloadPath[]=mugosurvey_addons
 
+[RegionalSettings]
+TranslationExtensions[]=mugosurvey_addons
+
 */ ?>

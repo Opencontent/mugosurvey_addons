@@ -1,0 +1,23 @@
+{
+    "name": "opencontent/mugosurvey_addons-ls",
+    "description": "Mugo Survey Addons (OpenContent Fork)",
+    "type": "ezpublish-legacy-extension",
+    "authors": [
+        {
+            "name": "Mugo Web",
+            "homepage": "http://www.mugo.ca/Products/Mugo-Survey-Addons"
+        },
+        {
+            "name": "OpenContent",
+            "homepage": "http://www.opencontent.it"
+        }
+    ],
+    "license": "GPL-2.0",    
+    "minimum-stability": "dev",
+    "require": {
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "mugosurvey_addons"
+    }
+}

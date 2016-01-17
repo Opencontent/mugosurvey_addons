@@ -8,7 +8,7 @@ QuestionTypeList[]
 QuestionTypeList[]=matrix
 QuestionTypeList[]=country
 #QuestionTypeList[]=state
-#QuestionTypeList[]=pagebreak
+QuestionTypeList[]=pagebreak
 #QuestionTypeList[]=rsvpcode
 #QuestionTypeList[]=textentryvalidated
 */ ?>

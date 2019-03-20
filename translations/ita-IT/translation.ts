@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Questions marked with %mark% are required.</source>
-        <translation type="unfinished">Sono obbligatore le risposte alle domande contrassegnate da %mark%.</translation>
+        <translation type="unfinished">Sono obbligatorie le risposte alle domande contrassegnate da %mark%.</translation>
     </message>
     <message>
         <source>Submit</source>
